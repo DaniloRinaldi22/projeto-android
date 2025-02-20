@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kaushan+Script&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 @font-face {
-    font-family: 'android';
-    src: url('../fontes/android.otf') format('opentype');
+    font-family: 'Android';
+    src: url('../fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
 
@@ -69,7 +69,7 @@ header > p {
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.5);
 }
 
@@ -107,7 +107,7 @@ main{
 
 main h1 {
     color: #063d1e;
-    font-family: var(--fonte-android);
+    font-family: var(--fonte-Android);
     font-weight: normal;
     font-size: 1.8em;
 }
